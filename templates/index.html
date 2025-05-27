@@ -1,0 +1,218 @@
+<!doctype html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8" />
+  <title>EFT任务统计</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" />
+  <style>
+    html, body {
+      height: 100%;
+      margin: 0;
+    }
+    :root {
+      --bg-overlay: rgba(255, 255, 255, 0.4); 
+      --body-text-color: #000;
+      --btn-outline-primary-color: #0d6efd;
+      --btn-outline-danger-color: #dc3545;
+    }
+    body {
+      background-color: #fff;
+      color: var(--body-text-color);
+      min-height: 100vh;
+      font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+      transition: color 0.3s ease, background-color 0.3s ease;
+    }
+    .container {
+      background: #fff;
+      border-radius: 12px;
+      padding: 20px 30px 30px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+      margin-top: 20px;
+      margin-bottom: 20px;
+      transition: background-color 0.3s ease, box-shadow 0.3s ease;
+    }
+    html {
+      scroll-behavior: auto !important;
+    }
+    .completed-task {
+      border: 2px solid var(--btn-outline-primary-color) !important;
+      background-color: #cfe2ff !important;
+    }
+
+    /* 修改按钮颜色为黑色 */
+    .btn-outline-primary {
+      color: black !important;
+      border-color: var(--btn-outline-primary-color) !important;
+      background-color: transparent !important;
+    }
+    .btn-outline-primary:hover, 
+    .btn-outline-primary:focus {
+      color: black !important;
+      background-color: rgba(13, 110, 253, 0.3) !important;
+      border-color: var(--btn-outline-primary-color) !important;
+    }
+
+    .btn-outline-danger,
+    .btn-outline-danger:hover,
+    .btn-outline-danger:focus {
+      color: rgb(255, 0, 0) !important;
+      border-color: var(--btn-outline-danger-color) !important;
+      background-color: transparent !important;
+    }
+    .btn-outline-danger:hover,
+    .btn-outline-danger:focus {
+      background-color: rgba(220, 53, 69, 0.3) !important;
+    }
+
+    body.dark-mode {
+      background-color: #000;
+      --body-text-color: #fff;
+    }
+    body.dark-mode .container {
+      background: #000;
+      color: white;
+      box-shadow: 0 0 10px rgba(255,255,255,0.1);
+    }
+    body.dark-mode .card {
+      background-color: #111;
+      color: white;
+    }
+    body.dark-mode .badge {
+      background-color: #444;
+      color: white;
+    }
+    body.dark-mode .btn {
+      color: white;
+    }
+    body.dark-mode .btn.btn-primary {
+      background-color: #0d6efd;
+      border-color: #0d6efd;
+    }
+    body.dark-mode .btn.btn-outline-primary {
+      color: white !important;
+      border-color: var(--btn-outline-primary-color) !important;
+    }
+
+    #toggleThemeBtn {
+      position: fixed;
+      top: 10px;
+      right: 10px;
+      z-index: 9999;
+    }
+  </style>
+</head>
+<body>
+  <button id="toggleThemeBtn" class="btn btn-secondary btn-sm">切换配色</button>
+
+  <div class="container my-4">
+    <h1 class="mb-4">逃离塔科夫任务统计</h1>
+
+    <h5>筛选标签：</h5>
+    <div class="mb-3">
+      {% for tag in tag_stats %}
+        {% set active = 'btn-primary' if tag in selected_tags else 'btn-outline-primary' %}
+        {% set new_tags = [] %}
+        {% if tag in selected_tags %}
+          {% for t in selected_tags %}
+            {% if t != tag %}
+              {% set _ = new_tags.append(t) %}
+            {% endif %}
+          {% endfor %}
+        {% else %}
+          {% for t in selected_tags %}
+            {% set _ = new_tags.append(t) %}
+          {% endfor %}
+          {% set _ = new_tags.append(tag) %}
+        {% endif %}
+        <a href="{{ url_for('index', tags=','.join(new_tags), min_lv=min_lv, max_lv=max_lv) }}"
+           class="btn {{ active }} btn-sm me-1 mb-1">
+          {{ tag }} <span class="badge bg-secondary">{{ tag_stats[tag]['completed'] }}/{{ tag_stats[tag]['total'] }}</span>
+        </a>
+      {% endfor %}
+      <a href="{{ url_for('index') }}" class="btn btn-outline-danger btn-sm mb-1">清除筛选</a>
+    </div>
+
+    <h5>等级筛选（支持留空，小于或大于）:</h5>
+    <form method="get" class="row g-3 mb-4">
+      <input type="hidden" name="tags" value="{{ ','.join(selected_tags) }}">
+      <div class="col-auto">
+        <label for="min_lv" class="col-form-label">最低等级（含）</label>
+        <input type="number" class="form-control" id="min_lv" name="min_lv" min="0" value="{{ min_lv }}">
+      </div>
+      <div class="col-auto">
+        <label for="max_lv" class="col-form-label">最高等级（含）</label>
+        <input type="number" class="form-control" id="max_lv" name="max_lv" min="0" value="{{ max_lv }}">
+      </div>
+      <div class="col-auto align-self-end">
+        <button type="submit" class="btn btn-primary mb-3">应用等级筛选</button>
+      </div>
+    </form>
+
+    <hr>
+
+    <div class="row g-3">
+      {% if tasks %}
+        {% for task in tasks %}
+          <div id="task-{{ task.id }}" class="col-12">
+            <div class="card {% if task.id in completed %}completed-task{% endif %}">
+              <div class="row g-0 align-items-center">
+                <div class="col-md-3 text-center p-2">
+                  <img src="{{ url_for('static', filename=task.image) }}" alt="图片" class="img-fluid rounded" style="max-height:150px;" />
+                </div>
+                <div class="col-md-9">
+                  <div class="card-body">
+                    <h5 class="card-title">{{ task.name }}</h5>
+                    <p class="card-text">{{ task.objective }}</p>
+                    <div class="mb-2">
+                      {% for tag in task.tags %}
+                        <span class="badge bg-info text-dark me-1">{{ tag }}</span>
+                      {% endfor %}
+                    </div>
+                    <a href="{{ url_for('toggle', task_id=task.id) }}#task-{{ task.id }}" 
+                       class="btn {% if task.id in completed %}btn-outline-danger{% else %}btn-success{% endif %} me-2 btn-sm">
+                      {% if task.id in completed %}取消完成{% else %}标记完成{% endif %}
+                    </a>
+                    <a href="https://escapefromtarkov.fandom.com/zh/wiki/Special:%E6%90%9C%E7%B4%A2?scope=internal&navigationSearch=true&query={{ task.name | urlencode }}" 
+                       target="_blank" rel="noopener noreferrer" class="btn btn-primary btn-sm">
+                      搜索攻略
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        {% endfor %}
+      {% else %}
+        <p>没有符合筛选条件的任务。</p>
+      {% endif %}
+    </div>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+  <script>
+    const btn = document.getElementById('toggleThemeBtn');
+
+    btn.addEventListener('click', () => {
+      document.body.classList.toggle('dark-mode');
+      if(document.body.classList.contains('dark-mode')){
+        localStorage.setItem('theme', 'dark');
+      } else {
+        localStorage.setItem('theme', 'light');
+      }
+    });
+
+    window.addEventListener('DOMContentLoaded', () => {
+      const savedTheme = localStorage.getItem('theme');
+      if(savedTheme === 'dark'){
+        document.body.classList.add('dark-mode');
+      } else if(savedTheme === 'light') {
+        document.body.classList.remove('dark-mode');
+      } else {
+        if(window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches){
+          document.body.classList.add('dark-mode');
+        }
+      }
+    });
+  </script>
+</body>
+</html>
