@@ -1,0 +1,328 @@
+任务名,目标,标签,图片
+首秀,1.在任意地图击杀5名Scavs 2.获取并交出2支MP-13312ga霰弹枪,3x4 仙女棒 任意地点,static/images/1692980529_image.png
+背景调查,1.在海关取得青铜怀表 2.(可选）取得机械钥匙 3.上交青铜怀表,3x4 仙女棒 海关 Lv.2,static/images/1692982234_image.png
+硝烟野餐,1.在森林击杀15个Scav,3x4 森林 Lv.3,static/images/1692989426_image.png
+搜索任务,1.在森林找到失踪的Prapor的车队 2.找到USEC临时营地 3.以幸存状态撤离该区域,3x4 森林 Lv.5,static/images/1692980729_image.png
+往事速递,1.在位于海关的Tarcone公司主管办公室内找到一个保险盒 2.将容器藏匿在工厂3号门旁边的二层休息室内 3.以幸存状态撤离工厂,3x4 仙女棒 任意地点 Lv.5,static/images/1692990250_image.png
+石油存储,1.在海关使用MS2000指示器标记第一辆油罐车 2.在海关使用MS2000指示器标记第二辆油罐车 3.在海关使用MS2000指示器标记第三...,3x4 仙女棒 海关 Lv.5,static/images/1692993087_image.png
+罪证,1.在海关的工棚中找到0031号保险文件夹 2.把0031号保险文件夹交给Prapor 3.以幸存状态撤离该区域,3x4 仙女棒 任意地点 Lv.6,static/images/1692995563_image.png
+蛋卷冰淇淋,1.找到3个60发弹容量的AK弹匣 2.把找到的3个60发弹容量的AK弹匣上交,3x4 仙女棒 森林 Lv.9,static/images/1693211912_image.png
+探囊取物,1.在海关宿舍203房间取得高价值物品 2.上交信件,3x4 仙女棒 海关 PraporLL2,static/images/1693215762_image.png
+邮递员派特 - 1,1.在工厂的信使尸体上取得一封信 2.以幸存状态撤离工厂 3.上交信件给Therapist,3x4 工厂 Lv.10,static/images/1693212967_image.png
+一信之缘,1.在塔科夫街区取得挂号信 2.上交信件,非3x4 塔科夫街区 Lv.10,static/images/1693214990_image.png
+Polikhim流浪汉,1.在海关击杀25名Scav,3x4 海关 Lv.10,static/images/1693236368_image.png
+地堡 - 1,1.找到地堡 2.找到地堡控制室 3.以幸存状态撤离该区域,3x4 储备站 Lv.10,static/images/1692994118_image.png
+地堡 - 2,1.找到通往医院的密闭门(白主教) 2.找到通往学院大楼的两扇密闭门中的一个(黑主教) 3.找到通往1号军营的两扇密闭门中的一个(黑兵) 4...,3x4 储备站 Lv.11,static/images/1692994810_image.png
+大客户【多选】,1.在海关找到装有化学品的载具 2.使用MS2000指示器标记化学品转运车 3.以幸存状态撤离海关,3x4 海关 Lv.11,static/images/1693237795_image.png
+无意冒犯,1.取得10颗M67手榴弹 2.上交10颗M67手榴弹给Prapor,非3x4 任意地点 Lv.11,static/images/1693238093_image.png
+叛无所依,1.消灭储备站地堡控制室中的5名掠夺者,3x4 储备站 Lv.12,static/images/1693213665_image.png
+多鱼之漏,1.在储备站取得第一份加密文件并上交 2.在储备站取得第二份加密文件并上交 3.在储备站取得第三份加密文件并上交,3x4 储备站 Lv.12,static/images/1693214068_image.png
+苏共之辉 - 1,1.在塔科夫街区找到Prapor朋友的公寓 2.以幸存状态撤离该区域,非3x4 塔科夫街区 Lv.15,static/images/1693216632_image.png
+苏共之辉 - 2,1.在塔科夫街区找到Prapor朋友的工作地点 2.获取关于Prapor的朋友命运的任何信息 3.以幸存状态撤离该区域,非3x4 塔科夫街区,static/images/1694596771_image.png
+惩罚者 - 1,1.在海岸线使用AKM系列武器击杀15名Scav,3x4 仙女棒 海岸线 Lv.17,static/images/1693216973_image.png
+惩罚者 - 2,1.在储备站使用消音武器击杀12名Scav 2.在战局中找到7个半面巾 3.上交7个半面巾,3x4 仙女棒 Lv.18 储备站,static/images/1693217507_image.png
+小菜一碟 - 1,1.在灯塔的污水处理厂找到直升机 2.使用MS2000指示器标记直升机 3.以幸存状态撤离该区域,3x4 灯塔 Lv.18,static/images/1693239641_image.png
+小菜一碟 - 2,1.清除灯塔污水处理厂直升机周围的威胁（任意目标x20）,3x4 灯塔 Lv.18,static/images/1693239957_image.png
+踩点行动,1.踩点灯塔第一个办公楼的楼顶 2.踩点灯塔第二个办公楼的楼顶 3.踩点灯塔第三个办公楼的楼顶 4.以幸存状态撤离该区域,3x4 灯塔 Lv.18,static/images/1693240359_image.png
+惩罚者 - 3,1.在海关使用AKS-74U击杀25名Scav,3x4 仙女棒 海关 Lv.19,static/images/1693217760_image.png
+惩罚者 - 4,1.在灯塔使用12铅径霰弹枪击杀10名Scav 2.在灯塔佩戴任意巴拉克拉瓦面罩，并装备Scav背心击杀10名PMC 3.在战局中找到5把A...,3x4 仙女棒 Lv.20 灯塔,static/images/1693218350_image.png
+惩罚者 - 5,1.在战局中找到AK-74N突击步枪并上交 2.在战局中找到M4A1突击步枪并上交 3.在战局中找到2把PM9x18手枪并上交 4.穿戴PA...,3x4 仙女棒 任意地点 Lv.20,static/images/1693219334_image.png
+占山为王,1.在灯塔地区消灭20名USEC的PMC行动人员 2.上交在战局中找到的20个USEC狗牌,非3x4 灯塔 Lv.20,static/images/1693240162_image.png
+绿色通道,1.在塔科夫街区找到运送货物的车队 2.找到偷袭位置 3.以幸存状态撤离该区域,非3x4 塔科夫街区 Lv.20,static/images/1693230828_image.png
+掷弹兵,1.使用手榴弹击杀8名PMC,3x4 任意地点 Lv.20,static/images/1693231414_image.png
+惩罚者 - 6,1.使用SVD狙击步枪击杀15名PMC（工厂除外） 2.上交7个BEARPMC狗牌 3.上交7个USECPMC狗牌,3x4 任意地点 Lv.21,static/images/1693227845_image.png
+麻醉,1.用MS2000指示器标记海岸线的第一个交易站 2.用MS2000指示器标记海岸线的第二个交易站 3.用MS2000指示器标记海岸线的第三...,3x4 海岸线 Lv.21,static/images/1693230806_image.png
+出警 - 商场,1.在塔科夫街区使用手枪消除Klimov交易中心建筑中的15个Scavs或PMC,非3x4 塔科夫街区 Lv.21,static/images/1694597468_image.png
+出警 - 门票,1.在塔科夫街区使用冲锋枪消除剧院中的15个Scavs或PMC,非3x4 塔科夫街区 Lv.21,static/images/1694597829_image.png
+出警 - 巡逻,1.在塔科夫街区使用突击步枪或卡宾枪消除Cardinal公寓中的15个Scavs或PMC,非3x4 塔科夫街区 Lv.21,static/images/1694598667_image.png
+出警 - 校园保安,1.在塔科夫街区CitySchool30区域内消灭使用霰弹枪击杀15名Scav或PMC,非3x4 塔科夫街区 Lv.21,static/images/1694183863_image.png
+屋顶战神,1.在塔科夫街区消灭屋顶的10名Scavs狙击手 2.以幸存状态撤离该区域,非3x4 塔科夫街区 Lv.22,static/images/1693228784_image.png
+管制材料,1.在战局中找到6-Sten-140-M军用电池并上交 2.在战局中找到OFZ30x60毫米炮弹并上交,3x4 任意地点 Lv.25,static/images/1693236780_image.png
+最好的差事,1.使用AK-74系列突击步枪从100米开外击杀30个任意敌人,非3x4 任意地点 Lv.25,static/images/1693229430_image.png
+试驾 - 1,1.使用装有SilencercoHybrid46多口径消音器和Schmidt&BenderPMII1-8x24瞄准镜的M1A步枪从6...,3x4 任意地点 Lv.30,static/images/1693232001_image.png
+试驾 - 2,1.在塔科夫街区上使用带有抑制器和KP-SR2反射瞄准器的SR-2M“Veresk”消除20名PMC,非3x4 塔科夫街区 Lv.30,static/images/1693235627_image.png
+试驾 - 3,1.在灯塔使用装备消音器和ValdayPS-3201x/6x瞄准镜在灯塔消灭PMC,非3x4 灯塔 Lv.30,static/images/1694596310_image.png
+左右逢源,1.Prapor信任度至4级 2.Therapist信任度至4级 3.Skier信任度至4级 4.Peacekeeper信任度至4级 5.M...,3x4 任意地点 Lv.35,static/images/1693235748_image.png
+掠地攻城,1.在海关的Scav营地击杀8名PMC 2.在森林的Scav营地击杀8名PMC 3.在海岸线码头击杀8名PMC,非3x4 任意地点 Lv.42,static/images/1693238211_image.png
+恐吓者,1.命中头部击杀40名Scav,3x4 任意地点 Lv.45,static/images/1693238989_image.png
+护送,1.于白天在工厂击杀4名PMC 2.在海关击杀4名PMC 3.在海岸线击杀4名PMC 4.在储备站击杀4名PMC 5.在森林击杀4名PMC ...,非3x4 任意地点 Lv.60,static/images/1693239306_image.png
+短缺,1.在战局中找到3个Salewa急救包 2.上交3个Salewa急救包,3x4 仙女棒 任意地点,static/images/1693246664_image.png
+卫生标准 - 1,1.在战局中找到1个气体分析仪并上交,3x4 仙女棒 工厂 Lv.4,static/images/1693247592_image.png
+水瓶座行动 - 1,1.在海关找到被藏在宿舍楼里的水 2.以幸存状态撤离该区域,3x4 海关 Lv.6,static/images/1693247008_image.png
+水瓶座行动 - 2,1.在海关击杀15名Scav,3x4 海关 Lv.6,static/images/1693247318_image.png
+卫生标准 - 2,1.在战局中找到2个气体分析仪并上交,3x4 仙女棒 任意地点 Lv.8,static/images/1693247950_image.png
+止痛药,1.在战局中找到4个吗啡注射器并上交,3x4 仙女棒 任意地点 Lv.8,static/images/1693248050_image.png
+邮递员派特 - 2,1.把信使身上的信上交给Therapist,3x4 任意地点 Lv.10,static/images/1693301535_image.png
+药剂师,1.在海关找到装有设备的箱子 2.将箱子上交给Therapist,3x4 仙女棒 海关 Lv.10,static/images/1693248458_image.png
+汽车修理,1.在战局中找到4个汽车蓄电池 2.在战局中找到8个火花塞,3x4 任意地点 Lv.10,static/images/1693249193_image.png
+一般储备,1.在战局中找到15个小牛肉罐头并上交,3x4 任意地点 Lv.10,static/images/1693299440_image.png
+医疗隐私 - 1,1.在海岸线找到第一辆救护车，并使用MS2000指示器标记 2.在海岸线找到第二辆救护车，并使用MS2000指示器标记 3.在海岸线找到第三...,3x4 仙女棒 海岸线 Lv.10,static/images/1693252502_image.png
+医疗隐私 - 2,1.在疗养院的房间中找到任何关于TerraGroup研究的文件 2.上交找回的信息 3.以幸存状态撤离该区域,3x4 仙女棒 海岸线 Lv.10,static/images/1693253109_image.png
+消失的线人,1.在灯塔的房屋区域找到失踪的小队 2.以幸存状态撤离该区域,3x4 仙女棒 灯塔 Lv.10,static/images/1693304638_image.png
+缉毒行动,1.在灯塔找到隐蔽的毒品实验室 2.在毒品实验室中藏匿WIFI摄像头,3x4 仙女棒 灯塔 Lv.10,static/images/1693304866_image.png
+医疗隐私 - 3,1.找到那辆曾属于疗养院医疗服务负责人的车 2.提取血液样本并上交 3.以幸存状态撤离该区域,3x4 仙女棒 森林 Lv.10,static/images/1693253639_image.png
+一天一个苹果 - 医生远离我,"1.上交400,000卢布",非3x4 任意地点 Lv.10,static/images/1693254410_image.png
+医疗隐私 - 4,1.达到4级健康技能等级,3x4 仙女棒 任意地点 Lv.10,static/images/1693254002_image.png
+医疗隐私 - 5,1.在夜间找到工厂的投放地点 2.取得3个“Kite”火药并将它们藏匿在指定地点,3x4 仙女棒 工厂 Lv.10,static/images/1693254200_image.png
+出于好奇【多选】,1.在海关找到装有化学品的载具 2.使用MS2000指示器标记化学品转运车 3.以幸存状态撤离海关,3x4 海关 Lv.11,static/images/1693306416_image.png
+重获信任,1.取得宿舍303房间钥匙并上交 2.取得ZB-014钥匙并上交 3.取得军事基地检查站钥匙并上交 4.取得加油站储藏室钥匙并上交,非3x4 任意地点 Lv.11,static/images/1693306506_image.png
+人口普查,1.取得记载有人口数据的记录并上交,非3x4 塔科夫街区 Lv.12,static/images/1693250509_image.png
+兽医也是医 - 1,1.在塔科夫街区找到兽医诊所 2.在塔科夫街区找到X光检查室 3.以幸存状态撤离该区域,非3x4 塔科夫街区 Lv.12,static/images/1694197909_image.png
+供给计划【多选】,1.在森林锯木厂小屋里取得机密文件夹0052 2.以幸存状态撤离森林 3.上交机密文件夹,3x4 森林 Lv.13,static/images/1693251872_image.png
+危险之路,1.在塔科夫街区幸存，并通过Primorsky（Приморский）大道出租车载具撤离点撤离,非3x4 塔科夫街区 Lv.15,static/images/1693252227_image.png
+病历,1.在储备站取得第一份医学报告并上交 2.在储备站取得第二份医学报告并上交,3x4 储备站 Lv.15,static/images/1693249512_image.png
+海边假期,1.在灯塔找到线人的公文包 2.上交找到的包裹,3x4 灯塔 Lv.17,static/images/1693304278_image.png
+城市的解药,1.在塔科夫街区找到化学品实验室 2.取得装有毒品样本的容器并上交,非3x4 塔科夫街区 Lv.17,static/images/1693251439_image.png
+寻找救护车,1.在塔科夫街区找到医护人员的智能手机 2.上交智能手机,非3x4 塔科夫街区 Lv.17,static/images/1694600440_image.png
+同事 - 1,1.找到被派往疗养院的小组 2.找到被派往码头的小组 3.找到被派往别墅的小组 4.以幸存状态撤离该区域,3x4 海岸线 Lv.21,static/images/1693299998_image.png
+同事 - 2,1.在战局中找到Sanitar带有蓝色记号的手术套装并上交 2.在战局中找到Sanitar的检眼镜并上交,3x4 海岸线 Lv.21,static/images/1693300285_image.png
+同事 - 3【多选】,1.不要杀死Sanitar 2.在战局中找到10张TerraGroup实验室访问钥匙卡并上交 3.在战局中找到AHF1-M兴奋剂注射剂并上交...,3x4 任意地点 Lv.21,static/images/1693301455_image.png
+运动员,1.达到10级的健康技能等级,3x4 任意地点 Lv.30,static/images/1693298712_image.png
+私人诊所,1.在战局中找到检眼镜并上交 2.在战局中找到LEDX皮肤透照仪并上交,3x4 仙女棒 任意地点 Lv.35,static/images/1693298986_image.png
+灭虫服务,1.在立交桥穿戴指定装备，近距离（60米内）击杀40名Scav,3x4 仙女棒 立交桥 Lv.35,static/images/1693299133_image.png
+急单,1.在战局中找到3个便携式除颤仪 2.在战局中找到3个检眼镜 3.在战局中找到2个LEDX皮肤透照仪 4.在战局中找到20个一堆药 5.在战...,3x4 任意地点 Lv.48,static/images/1693301853_image.png
+收藏家,1.在战局中找到以下图片所有物品 2.上交以下图片所有物品 3.达到55级,3x4 任意地点 Lv.48,static/images/1716828882_c692c66da2d8b6125aa5d5a75ff095b2.png
+抉择,1.上交Epsilon安全箱,非3x4 任意地点 Lv.50,static/images/1716828797_34581c6e10b484ae93ab077a9a05873a.png
+亡羊补牢 - 赌注,1.使用AK系列枪械击杀7名玩家,非3x4 任意地点,static/images/1693945311_image.png
+亡羊补牢 - 信任,1.上交在战局中找到的5个BEAR狗牌 2.上交在战局中找到的5个USEC狗牌,非3x4 任意地点,static/images/1693945431_image.png
+亡羊补牢 - Wergild,"1.上交1,000,000卢布",非3x4 任意地点,static/images/1693945460_image.png
+亡羊补牢 - 酒保,1.上交在战局中找到的1个DanJackiel瓶装威士忌 2.上交在战局中找到的3个塔可乐,非3x4 任意地点,static/images/1693945523_image.png
+亡羊补牢 - 收藏,1.上交在战局中找到的2把柯尔特M4A1突击步枪,非3x4 任意地点,static/images/1693945608_image.png
+供应商,1.上交在战局中找到的Module-3M防弹衣 2.上交在战局中找到的TOZ-106霰弹枪,3x4 仙女棒 任意地点 Lv.5,static/images/1693314653_image.png
+敲诈者,1.在海关取得高价值货物 2.上交高价值货物,3x4 海关 Lv.7,static/images/1693315074_image.png
+风波,1.使用手枪击杀3名PMC,3x4 任意地点 Lv.8,static/images/1693315468_image.png
+U盘里面有什么？,1.在战局中找到2个加密U盘并上交,3x4 任意地点 Lv.8,static/images/1693315762_image.png
+金色失物,1.找到镀金的Zibbo打火机 2.在海关将打火机藏匿在拖车停车场的工棚里,3x4 海关 Lv.8,static/images/1693316231_image.png
+西方来客 - 1,1.击杀7名USEC 2.找到7个“USEC”PMC狗牌并上交,3x4 仙女棒 任意地点 Lv.9,static/images/1693320941_image.png
+西方来客 - 2,"1.上交6,000美元",3x4 仙女棒 任意地点 Lv.9,static/images/1693321325_image.png
+化学品 - 1,1.取得关于副局长生平的信息并上交 2.取得可以帮助调查的物品并上交,3x4 海关 Lv.10,static/images/1693316592_image.png
+化学品 - 2,1.在海关找到任何可以帮助调查的证据并上交 2.在海关找到任何可以帮助调查的信息并上交,3x4 海关 Lv.10,static/images/1693317007_image.png
+化学品 - 3,1.在工厂取得装有化学品的注射器并上交,3x4 工厂 Lv.11,static/images/1693317720_image.png
+化学品 - 4【多选】,1.在海关找到装有化学品的载具 2.使用MS2000指示器标记化学品转运车 3.以幸存状态撤离海关,3x4 海关 Lv.11,static/images/1693318937_image.png
+收买人心,1.上交100万卢布给Skier,非3x4 任意地点 Lv.11,static/images/1693318431_image.png
+暗中破坏【多选】,1.把0052号文件夹上交给Skier,3x4 任意地点 Lv.13,static/images/1693326119_image.png
+安全通道,1.在位于储备站的地下仓库击杀10名Scav,3x4 储备站 Lv.15,static/images/1693326754_image.png
+长路漫漫,1.在位于灯塔的海边及主路沿线击杀15名Scav,3x4 灯塔 Lv.20,static/images/1693327475_image.png
+失踪货物,1.在灯塔找到失事的直升机 2.找到线人的情报文件夹并上交,3x4 灯塔 Lv.20,static/images/1693327641_image.png
+肮脏游戏,1.标记疗养院正门处的医疗容器 2.标记锁着的别墅旁的医疗容器 3.标记码头入口处的医疗容器 4.以幸存状态撤离该区域,3x4 海岸线 Lv.21,static/images/1693326344_image.png
+维他命 - 1,1.获得第一个化学品容器并上交 2.获得第二个化学品容器并上交 3.获得第三个化学品容器并上交,3x4 任意地点 Lv.22,static/images/1693318549_image.png
+维他命 - 2,1.在战局中找到4个防毒面罩并上交 2.在战局中找到3个医用输血工具并上交,3x4 任意地点 Lv.22,static/images/1693319118_image.png
+好吃到上瘾 - 1,1.在塔科夫街区的Beluga餐厅找到并获取有关烹饪秘密的信息,非3x4 塔科夫街区 Lv.22,static/images/1694602347_image.png
+好吃到上瘾 - 2,1.在塔科夫街区找到TerraGroup办公室内的秘密配方 2.上交秘密配方,非3x4 塔科夫街区 Lv.22,static/images/1694602712_image.png
+情报就是力量,1.安装监视码头的WIFI摄像头 2.安装监视通往港口的路的WIFI摄像头 3.安装监视KibaArms商店的WIFI摄像头,3x4 仙女棒 任意地点 Lv.24,static/images/1693321556_image.png
+租借法案 - 1,1.获得第一个电机控制器并上交 2.获得第二个电机控制器并上交 3.获得第三个电机控制器并上交 4.获得第一个单轴光纤陀螺仪并上交 5.获得...,3x4 仙女棒 任意地点 Lv.25,static/images/1693324326_image.png
+愿者上钩,1.将3条金项链藏到BTR-80A装甲车旁边的床垫下 2.将3条金项链藏到宿舍楼三楼的微波炉里 3.将3条金项链藏到伐木场宿舍区的中间小屋内...,3x4 仙女棒 任意地点 Lv.27,static/images/1693321968_image.png
+大音希声,1.使用消音12铅径霰弹枪击杀20名Scav 2.使用消音12铅径霰弹枪击杀10名PMC,3x4 任意地点 Lv.30,static/images/1693322409_image.png
+一派胡言,1.找到假U盘 2.放置假U盘 3.放置SV-98狙击步枪 4.放置劳力士腕表 5.完成任务前，你不能在海关击杀任何Scav,3x4 仙女棒 海关 Lv.30,static/images/1693322669_image.png
+借刀杀人,1.穿戴特定装备在海关击杀15名PMC,3x4 海关 Lv.30,static/images/1693323396_image.png
+老赖,1.在Tarkov5号大街找到老赖 2.幸存状态下撤离,非3x4 仙女棒 塔科夫街区 Lv.31,static/images/1693335436_image.png
+软禁 - 1,1.找到失踪小队被关押在塔科夫街区上的地点 2.幸存状态下撤离,非3x4 仙女棒 塔科夫街区 Lv.33,static/images/1693335676_image.png
+软禁 - 2,1.在塔科夫街区找到临时典狱长的公寓 2.查出典狱长的遭遇 3.幸存状态下撤离,非3x4 塔科夫街区 Lv.33,static/images/1693336278_image.png
+坚如燧石,1.提升抗压技能至5级,3x4 任意地点 Lv.35,static/images/1693323901_image.png
+头号机密,1.在灯塔找到雷达站指挥员的办公室 2.获取记载了航班路线的军用机械硬盘并上交,非3x4 灯塔 Lv.35,static/images/1693328131_image.png
+夜间扫荡,1.找到12把奇特的邪教徒匕首 2.上交12把邪教徒匕首给Skier,非3x4 任意地点 Lv.50,static/images/1693326983_image.png
+渔具,1.找到秘密地点 2.把狙击步枪放到指定位置 3.把多功能工具钳放到指定位置 4.以幸存状态撤离该区域,3x4 仙女棒 海岸线 Lv.10,static/images/1693337786_image.png
+猎虎行动,1.在海关标记第一个Tigr载具 2.在海关标记第二个Tigr载具 3.在海关标记第三个Tigr载具 4.以幸存状态撤离该区域,3x4 仙女棒 海关 Lv.10,static/images/1693385205_image.png
+破铜烂铁,1.在海岸线标记第一辆T-90坦克 2.在海岸线标记第二辆T-90坦克 3.在海岸线标记第三辆T-90坦克 4.以幸存状态撤离该区域,3x4 仙女棒 海岸线 Lv.10,static/images/1693386974_image.png
+鹰眼,1.找到第一架无人机的坠毁地点 2.从第一个坠毁的无人机上找到SAS硬盘并上交 3..找到第二架无人机的坠毁地点 4.从第二个坠毁的无人机上...,3x4 仙女棒 海岸线 Lv.11,static/images/1693387442_image.png
+人道主义救援,1.标记第一辆装有UN失踪货物的卡车 2.标记第二辆装有UN失踪货物的卡车 3.找到5包MRE个人即食口粮并上交 4.穿戴UN制式装备在海岸...,3x4 仙女棒 海岸线 Lv.11,static/images/1693387888_image.png
+邪教 - 1,1.找到失踪的线人 2.以幸存状态撤离该区域,3x4 海岸线 Lv.12,static/images/1693388578_image.png
+邪教 - 2,1.把MS2000指示器放在海关的仪式地点上 2.把MS2000指示器放在森林的第一个仪式地点上 3.把MS2000指示器放在森林的第二个仪...,3x4 任意地点 Lv.12,static/images/1693388949_image.png
+疗养之旅 - 1,1.在海岸线使用12铅径霰弹枪命中头部击杀7名Scav,3x4 仙女棒 海岸线 Lv.12,static/images/1693389399_image.png
+人口过剩,1.清除灯塔房屋区域的Scav威胁,3x4 灯塔 Lv.12,static/images/1693425126_image.png
+疗养之旅 - 2,1.用MS2000指示器标记直升机 2.用MS2000指示器标记安全通道 3.以幸存状态撤离该区域,3x4 仙女棒 海岸线 Lv.12,static/images/1693390389_image.png
+疗养之旅 - 3,1.在战局中找到100毫升WD-40并上交 2.在战局中找到2瓶Clin清洁剂并上交 3.在战局中找到2个波纹软管并上交 4.在战局中找到2...,3x4 仙女棒 任意地点 Lv.12,static/images/1693390740_image.png
+疗养之旅 - 4,1.在疗养院东楼找到发电机 2.在疗养院西楼找到发电机 3.以幸存状态撤离该区域,3x4 仙女棒 海岸线 Lv.12,static/images/1693391805_image.png
+疗养之旅 - 5,1.取得疗养院封闭房间的钥匙并上交,3x4 仙女棒 海岸线 Lv.12,static/images/1693392228_image.png
+疗养之旅 - 6,"1.上交8,000美元",3x4 仙女棒 任意地点 Lv.12,static/images/1693392582_image.png
+疗养之旅 - 7,1.在战局中找到4支吗啡注射器 2.在战局中找到2瓶碱性换热器表面洗涤剂 3.在战局中找到2个波纹软管 4.在战局中找到2个5升丙烷罐,3x4 仙女棒 任意地点 Lv.12,static/images/1693393148_image.png
+神秘货物 - 1,1.在计算机房找到货物记录 2.将找回的数据上交给Peacekeeper,3x4 仙女棒 海岸线 Lv.12,static/images/1693394448_image.png
+神秘货物 - 2,1.找到水箱所在的房间 2.在第二部分货物中找到任何有用的信息 3.把第二部分货物中找到的信息上交,3x4 仙女棒 海岸线 Lv.12,static/images/1693401512_image.png
+神秘货物 - 3,1.找到隐藏的Terragroup货物 2.以幸存状态撤离该区域,3x4 仙女棒 海岸线 Lv.12,static/images/1693401804_image.png
+神秘货物 - 4,1.找到位于灯塔的TerraGroup货物并使用MS2000指示器将其标记 2.以幸存状态撤离该区域,3x4 仙女棒 灯塔 Lv.12,static/images/1693402081_image.png
+彻夜难眠,1.在22:00-05:00期间击杀30名PMC干员（工厂除外）,3x4 任意地点 Lv.12,static/images/1693403627_image.png
+无中生有 - 储备站,1.标记第一辆BMP-2步战车 2.标记第二辆BMP-2步战车 3.标记第三辆BMP-2步战车 4.标记第四辆BMP-2步战车 5.标记第一...,3x4 储备站 Lv.14,static/images/1693413455_image.png
+无中生有 - 灯塔,1.找到第一辆BRDM装甲车并标记 2.找到第二辆BRDM装甲车并标记 3.找到第一辆Stryker装甲车并标记 4.找到第二辆Stryke...,3x4 灯塔 Lv.14,static/images/1693414161_image.png
+绝密技术,1.在储备站获取带有T-90M控制面板的包裹 2.将包裹上交,3x4 储备站 Lv.14,static/images/1693413194_image.png
+湿活 - 1,1.在海岸线使用带有消音器的M4A1或ADAR或TX-15消灭10名Scav,3x4 海岸线 Lv.14,static/images/1693405066_image.png
+湿活 - 2,1.找到渔民的住所 2.安放MS2000指示器 3.以幸存状态撤离该区域,3x4 海岸线 Lv.14,static/images/1693407704_image.png
+湿活 - 3,1.找到Artyom的车 2.以幸存状态撤离该区域,3x4 海岸线 Lv.14,static/images/1693408088_image.png
+湿活 - 4,1.找到一份疗养院房客名单 2.把疗养院房客名单上交,3x4 海岸线 Lv.14,static/images/1693408395_image.png
+导师,"1.上交50,000欧元",非3x4 任意地点 Lv.14,static/images/1693410317_image.png
+湿活 - 5,1.找到关于Artyom工作的信息 2.上交信息,3x4 海岸线 Lv.14,static/images/1693409150_image.png
+湿活 - 6,1.提升狙击枪控制技能至7级,3x4 任意地点 Lv.14,static/images/1693409732_image.png
+无中生有 - 塔科夫街区,1.在塔科夫街区标记第一辆Stryker装甲车 2.在塔科夫街区标记第二辆Stryker装甲车 3.在塔科夫街区标记第三辆Stryker装甲...,非3x4 塔科夫街区 Lv.17,static/images/1693414569_image.png
+此路不通,1.找到塔科夫街区的货运车队 2.确定伏击地点 3.幸存状态下撤离,非3x4 塔科夫街区 Lv.20,static/images/1693393830_image.png
+样品,1.在战局中找到1支M.U.L.E.兴奋剂 2.在战局中找到1支Cocktail“Obdolbos” 3.在战局中找到1支Meldonin ...,3x4 任意地点 Lv.21,static/images/1693411039_image.png
+TerraGroup雇员,1.找到Sanitar在实验室的工作间 2.取得有关Sanitar工作信息 3.上交蓝色胶带标记的U盘,3x4 实验室 Lv.23,static/images/1693412163_image.png
+最烂的差事,1.使用AR-15击杀100米以外的30名任意目标,非3x4 任意地点 Lv.25,static/images/1693414819_image.png
+反抗,1.在灯塔击杀20名BEAR玩家 2.上交20个在战局中发现的BEAR玩家狗牌,非3x4 灯塔 Lv.30,static/images/1693423660_image.png
+租借法案 - 2,1.在战局中找到军用COFDM无线信号发射器 2.在战局中找到2个Virtex可编程处理器,3x4 仙女棒 任意地点 Lv.30,static/images/1693412605_image.png
+维和任务,1.森林穿UN制式装备和M4A1杀12名Scav 2.海关穿UN制式装备和M4A1杀12名Scav 3.立交桥穿UN制式装备和M4A1杀12...,3x4 仙女棒 任意地点 Lv.30,static/images/1693424463_image.png
+你的车该洗了,1.找到塔科夫街区汽车经销商的经理办公室获取U盘 2.上交U盘,非3x4 塔科夫街区 Lv.35,static/images/1693403898_image.png
+向导,1.在所有地图幸存,3x4 任意地点 Lv.40,static/images/1693410528_image.png
+清洁工,1.在储备站击杀40名Scav掠夺者,非3x4 储备站 Lv.45,static/images/1693415526_image.png
+战利品,1.在战局中找到20个50级以上BEARPMC狗牌 2.在战局中找到20个50级以上USECPMC狗牌 3.上交20个50级以上BEARPM...,非3x4 任意地点 Lv.55,static/images/1693423979_image.png
+特殊装备,1.在战局中找到5个VPX闪存存储模块 2.在战局中找到5个UHFRFID读取器 3.在战局中找到5个Virtex可编程处理器 4.在战局中...,非3x4 任意地点 Lv.60,static/images/1693418190_image.png
+枪匠 - 1,1.按照要求改装MP-133,3x4 仙女棒 任意地点 Lv.2,static/images/1693510902_image.png
+介绍,1.在森林找到Jaeger的营地 2.找到Jaeger的留言 3.上交留言给Mechanic,3x4 仙女棒 森林 Lv.2,static/images/1693473979_image.png
+枪匠 - 2,1.按照要求改装AKS-74U,3x4 仙女棒 任意地点 Lv.5,static/images/1693511585_image.png
+枪匠 - 3,1.按照要求改装MP5,3x4 仙女棒 任意地点 Lv.7,static/images/1693512334_image.png
+枪匠 - 4,1.按照要求改装OP-SKS,3x4 仙女棒 任意地点 Lv.9,static/images/1693558180_image.png
+枪匠 - 5,1.按照要求改装雷明顿Model870,3x4 仙女棒 任意地点 Lv.10,static/images/1693559570_image.png
+信号 - 1,1.在海岸线上找到第一个信号源 2.在海岸线上找到第二个信号源 3.以幸存状态撤离该区域,3x4 任意地点 Lv.12,static/images/1693474567_image.png
+信号 - 2,-在战局中找到3片电脑CPU并上交 -在战局中找到3块可充电电池并上交 -在战局中找到3块印制电路板并上交 -在战局中找到3台损坏的GPho...,3x4 任意地点 Lv.12,static/images/1693474781_image.png
+圈内人,1.Prapor信任度达到3级,3x4 任意地点 Lv.12,static/images/1693474694_image.png
+侦察,1.找到第一个工厂出口（地下通道） 2.找到第二个工厂出口（0号门） 3.找到第三个工厂出口（3号门） 4.找到第四个工厂出口（医疗帐篷） ...,3x4 工厂 Lv.12,static/images/1693475596_image.png
+挖矿 - 1,1.在工厂使用一套工具修好第一个控制板 2.在工厂使用一套工具修好第二个控制板 3.以幸存状态撤离该区域,3x4 仙女棒 工厂 Lv.12,static/images/1693477898_image.png
+挖矿 - 2,1.在战局中找到2条电源线并上交 2.在战局中找到4个T形插座并上交 3.在战局中找到2块印制电路板并上交,3x4 仙女棒 任意地点 Lv.12,static/images/1693478178_image.png
+不良嗜好,1.在战局中找到5包马宝路香烟并上交 2.在战局中找到5包无彩香烟并上交 3.在战局中找到5包云尔斯顿香烟并上交,3x4 任意地点 Lv.12,static/images/1693479193_image.png
+直播 - 1,1.在灯塔找到隐蔽的录制室 2.在录制室内放置信号干扰器,3x4 仙女棒 灯塔 Lv.12,static/images/1693499120_image.png
+挖矿 - 3,1.在海关找到罚没品仓库 2.获得显卡包裹并上交,3x4 海关 Lv.14,static/images/1693489168_image.png
+挖矿 - 4,1.在战局中找到3张显卡 2.在战局中找到8个CPU风扇,3x4 任意地点 Lv.14,static/images/1693489542_image.png
+天神射手,1.在森林命中头部击杀5名PMC 2.在储备站命中头部击杀5名PMC 3.在海岸线命中头部击杀5名PMC 4.在海关命中头部击杀5名PMC ...,3x4 任意地点 Lv.14,static/images/1693491407_image.png
+枪匠 - 6,1.按照要求改装AKM,3x4 仙女棒 任意地点 Lv.14,static/images/1693560559_image.png
+后门,1.找到位于储备站未供电的秘密撤离点 2.从D-2撤离点幸存撤离,3x4 储备站 Lv.14,static/images/1693476893_image.png
+物尽其用,1.在储备站获得备用MBT综合导航系统 2.将导航综合体上交,3x4 储备站 Lv.14,static/images/1693476593_image.png
+信号 - 3,1.在海岸线的指定地点放置第一个干扰器 2.在海岸线的指定地点放置第二个干扰器 3.在海岸线的指定地点放置第三个干扰器 4.以幸存状态撤离该...,3x4 海岸线 Lv.15,static/images/1693477217_image.png
+信号 - 4,1.提升记忆力技能至4级,3x4 任意地点 Lv.15,static/images/1693477706_image.png
+神秘的门,1.在塔科夫街区找到信号干扰的原因 2.在被锁链覆盖的门口安装一个WI-Fi摄像头 3.在通往三楼的楼梯上安装Wi-Fi摄像头,非3x4 塔科夫街区 Lv.15,static/images/1694610420_image.png
+直播 - 2,1.找到塔科夫街区的杂货店内的血腥直播间 2.在幸存状态下撤离,非3x4 仙女棒 塔科夫街区 Lv.15,static/images/1693499703_image.png
+枪匠 - 7,1.按照要求改M4A1,3x4 仙女棒 任意地点 Lv.15,static/images/1693560871_image.png
+枪匠 - 8,1.按照要求改装AKS-74N,3x4 仙女棒 任意地点 Lv.17,static/images/1693561957_image.png
+商业机密,1.找到水泵运行数据并上交 2.找到泵房运行报告并上交,3x4 灯塔 Lv.17,static/images/1693497910_image.png
+枪匠 - 9,1.按照要求改装P226R,3x4 仙女棒 任意地点 Lv.19,static/images/1693564034_image.png
+枪匠 - 10,1.按照要求改装AK-105,3x4 仙女棒 任意地点 Lv.20,static/images/1693574850_image.png
+你被盯上了,1.找到塔科夫街区的监视点 2.取得装有记录的U盘并上交,非3x4 塔科夫街区 Lv.20,static/images/1693500064_image.png
+枪匠 - 11,1.按照要求改装KRISSVector9x19,3x4 仙女棒 任意地点 Lv.22,static/images/1693577015_image.png
+化学橱柜,1.在疗养院里查找并进入Sanitar\'s的办公室 2.幸存撤离该地区,3x4 海岸线 Lv.22,static/images/1693495921_image.png
+枪匠 - 12,1.按照要求改装SIGMPX,3x4 仙女棒 任意地点 Lv.23,static/images/1693577371_image.png
+枪匠 - 13,1.按照要求改装R11RSASS,3x4 仙女棒 任意地点 Lv.25,static/images/1693579372_image.png
+能源危机,1.找到位于灯塔的一组油罐并将其标记 2.找到位于灯塔的油罐卡车并将其标记 3.找到位于灯塔的第二辆油罐卡车并将其标记 4.找到位于灯塔的第...,3x4 灯塔 Lv.25,static/images/1693498235_image.png
+探望,1.找到塔科夫街区Concordia住宅区停车场地下室的车辆移动数据 2.上交数据,非3x4 塔科夫街区 Lv.25,static/images/1693500500_image.png
+枪匠 - 14,1.按照要求改装HK416A5,3x4 仙女棒 任意地点 Lv.27,static/images/1693580095_image.png
+枪匠 - 15,1.按照要求改装ASVAL,3x4 仙女棒 任意地点 Lv.29,static/images/1693580678_image.png
+枪匠 - 16,1.按照要求改装DVL-10,3x4 任意地点 Lv.30,static/images/1693581032_image.png
+肥料,1.在战局中找到5捆电线并上交 2.在战局中找到5份电容并上交,3x4 任意地点 Lv.30,static/images/1693491083_image.png
+枪匠 - 17,1.按照要求改装AK-102,3x4 任意地点 Lv.31,static/images/1693581386_image.png
+枪匠 - 18,1.按照要求改装AKMN,3x4 任意地点 Lv.33,static/images/1693581876_image.png
+进口,1.在战局中找到UHFRFID固定式读取器并上交 2.在战局中找到VPX闪存模块并上交,3x4 任意地点 Lv.35,static/images/1693495584_image.png
+狙击疯魔,1.提升狙击步枪技能至10级 2.在不死亡的情况下使用栓动步枪击杀5名PMC,3x4 任意地点 Lv.35,static/images/1693490303_image.png
+网络供应商 - 1,1.上交在战局中找到的4个电子元件 2.上交在战局中找到的4个军用COFDM无线信号发射器 3.上交在战局中找到的4个气体分析仪 4.上交在...,非3x4 仙女棒 任意地点 Lv.35,static/images/1693502077_image.png
+网络供应商 - 2,1.在污水处理厂的MI-8直升机内安放无线电中继器 2.在红顶豪宅内安放无线电中继器 3.在俯瞰灯塔的高海拔内安放无线电中继器 4.在岸边沉...,非3x4 仙女棒 灯塔 Lv.35,static/images/1693502300_image.png
+试探 - 1,1.消灭灯塔的灯塔本体的15名PMC人员,非3x4 仙女棒 灯塔 Lv.35,static/images/1693507134_image.png
+试探 - 2,1.在森林找到第一个地堡并标记 2.在森林找到第二个地堡并标记 3.在森林找到第三个地堡并标记 4.在森林找到第四个地堡并标记,非3x4 仙女棒 森林 Lv.35,static/images/1693507467_image.png
+试探 - 3,1.消灭实验室中的7个掠夺者 2.交出在战局中找到的15个SJ1TGLabs 3.交出在战局中找到的5个SJ6TGLabs 4.交出在战局中...,非3x4 仙女棒 实验室 Lv.35,static/images/1693508196_image.png
+灯塔之钥,1.交出战局中找到的2个有机玻璃片 2.交出战局中找到的1个绝缘胶带 3.交出战局中找到的2个军用电路板 4.交出战局中找到的1个军用COF...,非3x4 仙女棒 灯塔 Lv.35,static/images/1693508468_image.png
+咚咚咚,1.检查无线电发射器是否正常工作 2.以幸存状态撤离该区域,非3x4 仙女棒 灯塔 Lv.35,static/images/1693508913_image.png
+邂逅,1.在灯塔上获取加密U盘V3 2.重新刷新DSP无线电发射器 3.交出加密U盘V3 4.参观灯塔建筑,非3x4 仙女棒 灯塔 Lv.35,static/images/1693509245_image.png
+破镜重圆 - 收买人心,"1.交出1,000,000卢布",非3x4 仙女棒 任意地点 Lv.35,static/images/1693509919_image.png
+破镜重圆 - 装备,1.在战局中找到4支SVDS狙击步枪,非3x4 仙女棒 任意地点 Lv.35,static/images/1693510152_image.png
+破镜重圆,1.在灯塔上获取加密U盘V3 2.重新刷新DSP无线电发射器 3.交出加密U盘V3 4.参观灯塔建筑,非3x4 仙女棒 灯塔 Lv.35,static/images/1693510777_image.png
+枪匠 - 19,1.按照要求改装SVDS‍,3x4 任意地点 Lv.36,static/images/1693582829_image.png
+枪匠 - 20,1.按照要求改装M1A,3x4 任意地点 Lv.37,static/images/1693582587_image.png
+枪匠 - 21,1.按照要求改装M700‍ 2.按照要求改装M1911,3x4 任意地点 Lv.38,static/images/1693582927_image.png
+枪匠 - 22,1.按照要求改M4A1,3x4 任意地点 Lv.39,static/images/1693583906_image.png
+枪匠 - 23,1.按照要求改装Mk47,非3x4 任意地点 Lv.39,static/images/1694425140_image.png
+枪匠 - 24,1.按照要求改装SR-25,非3x4 任意地点 Lv.39,static/images/1694426840_image.png
+枪匠 - 25,1.按照要求改装PKP,非3x4 任意地点 Lv.39,static/images/1694611588_image.png
+致命校准,1.击杀100米开外的20个PMC,非3x4 任意地点 Lv.47,static/images/1693496629_image.png
+急先锋,1.在海关建筑工地的黄色吊车底座下藏匿TrijiconREAP-IR热成像步枪瞄准镜 2.在海关新加油站的垃圾箱后面藏匿TrijiconRE...,非3x4 任意地点 Lv.52,static/images/1693496982_image.png
+生意至上,1.Ragman好感度达到2级,3x4 仙女棒 任意地点 Lv.15,static/images/1693586072_image.png
+Make ULTRA Great Again,1.在立交桥击杀25名Scav,3x4 仙女棒 立交桥 Lv.15,static/images/1693586423_image.png
+大甩卖,1.检查AVOKADO 2.检查KOSTIN 3.检查tRend 4.检查DINOCLOTHES 5.检查TOPBRAND 6.以幸存状态撤...,3x4 仙女棒 立交桥 Lv.15,static/images/1693586745_image.png
+数据库 - 1,1.获得Goshan货物清单并上交 2.获得OLI货物清单并上交 3.获得IDEA货物清单并上交,3x4 仙女棒 立交桥 Lv.15,static/images/1693821140_image.png
+数据库 - 2,1.获得OLI货运路线文件并上交,3x4 仙女棒 立交桥 Lv.15,static/images/1693821338_image.png
+战争之血 - 1,1.标记1号油罐 2.标记2号油罐 3.标记3号油罐 4.以幸存状态撤离此区域,3x4 仙女棒 立交桥 Lv.15,static/images/1693818851_image.png
+盛装杀戮,1.在战局中找到2个苏联毛帽并上交 2.在战局中找到2个牛仔帽并上交,3x4 任意地点 Lv.15,static/images/1693819466_image.png
+感恩的心,1.找到秘密地点 2.把幽灵头套放置在指定地点 3.把提花头巾放置在指定地点 4.把雷硼太阳镜放置在指定地点 5.把圆框太阳镜放置在指定地点,3x4 森林 Lv.15,static/images/1693819675_image.png
+雪中送炭,1.标记位于储备站的第一组油罐 2.标记位于储备站的第二组油罐 3.以幸存状态撤离此区域,3x4 储备站 Lv.15,static/images/1693818060_image.png
+清点库存,1.检查储备站东部军营的第一个军械库（机侧楼） 2.检查储备站东部军营的第二个军械库（机侧楼） 3.检查储备站南部军营的第一个军械库（机尾楼...,3x4 储备站 Lv.15,static/images/1693818264_image.png
+审计,1.找到Tarkov街道上的财务记录本并上交,非3x4 塔科夫街区 Lv.17,static/images/1693837114_image.png
+芭蕾舞者,1.在塔科夫街区找到芭蕾舞演员的公寓 2.并幸存状态撤离该区域,非3x4 塔科夫街区 Lv.20,static/images/1693837279_image.png
+微型客车,1.标记第一辆微型客车 2.标记第二辆微型客车 3.标记第三辆微型客车 4.以幸存状态撤离此区域,3x4 立交桥 Lv.24,static/images/1693821736_image.png
+高保真,1.在塔科夫街区找到音乐人聚会点 2.获得雕刻的吉他拨片并上交,非3x4 塔科夫街区 Lv.25,static/images/1693837639_image.png
+临行密密缝 - 1,1.在战局中找到滑雪头套并上交 2.在战局中找到Pilgrim旅行包并上交,3x4 仙女棒 任意地点 Lv.25,static/images/1693822024_image.png
+战争之血 - 2,1.在战局中找到4个燃油添加剂并上交,3x4 仙女棒 任意地点 Lv.25,static/images/1693822700_image.png
+临行密密缝 - 2,"1,获得耐久度在0%-50%之间的Gzhel防弹衣 2.上交耐久度在0%-50%之间的Gzhel防弹衣 3.获得耐久度在50%-100%之间...",3x4 仙女棒 任意地点 Lv.25,static/images/1693822381_image.png
+临行密密缝 - 3,1.获得耐久度在0%-50%之间的6B13防弹衣 2.上交耐久度在0%-50%之间的6B13防弹衣 3.获得耐久度在50%-100%之间的6...,3x4 仙女棒 任意地点 Lv.25,static/images/1693833721_image.png
+临行密密缝 - 4,"-在战局中找到2件Wartech(TV-109,TV-106) -上交2件Wartech(TV-109,TV-106) -在战局中找到2件B...",3x4 任意地点 Lv.25,static/images/1693834540_image.png
+风流倜傥,1.提升魅力技能等级至10级,3x4 任意地点 Lv.25,static/images/1693834782_image.png
+成功的关键,1.获得服装设计手册（一）并上交 2.获得服装设计手册（二）并上交,3x4 立交桥 Lv.26,static/images/1693823737_image.png
+暗度陈仓,1.提升Therapist好感度至3级,3x4 任意地点 Lv.26,static/images/1693824320_image.png
+奢侈无罪 - 1,1.在战局中找到2尊青铜狮雕并上交 2.在战局中找到2尊马雕像并上交 3.在战局中找到猫雕像并上交 4.在战局中找到劳力土潜水金腕表并上交 ...,3x4 仙女棒 任意地点 Lv.27,static/images/1693834083_image.png
+火线速递,1.将2个PeltorComTac2藏到指定地点 2.将2个6B47头盔藏到指定地点 3.将2个BNTIGzhel-K护甲藏到指定地点,3x4 立交桥 Lv.29,static/images/1693819933_image.png
+垃圾佬,1.提升搜寻技能至9级,3x4 任意地点 Lv.29,static/images/1693820521_image.png
+机不可失【移除】,1.找到12幅钟表油画,非3x4 任意地点 Lv.29,static/images/1694611932_image.png
+大放送之夜,1.以幸存状态撤离立交桥7次,3x4 立交桥 Lv.30,static/images/1693820704_image.png
+战争之血 - 3,1.在森林找到并标记第一个燃料堆 2.在森林找到并标记第二个燃料堆 3.在森林找到并标记第三个燃料堆 4.以幸存状态撤离该区域,3x4 仙女棒 森林 Lv.30,static/images/1693822923_image.png
+奢侈无罪 - 2,1.在战局中找到3个古董茶壶并上交 2.在战局中找到2个古董花瓶并上交 3.在战局中找到1个Axel鹦鹉雕像并上交 4.在战局中找到2个乌鸦...,3x4 仙女棒 任意地点 Lv.30,static/images/1693823163_image.png
+那个时髦的人,1.干掉Killa50次,非3x4 立交桥 Lv.30,static/images/1693824589_image.png
+财务总监,1.获得Goshan收银机钥匙并上交,3x4 任意地点 Lv.40,static/images/1693832852_image.png
+纺织业 - 1,1.在战局中找到5匹芳纶纤维布料并上交 2.在战局中找到10匹防撕布料并上交 3.在战局中找到3条尼龙绳索并上交,非3x4 任意地点 Lv.42,static/images/1693835015_image.png
+纺织业 - 2,1.在战局中发现并带回10匹绒布布料 2.在战局中发现并带回10匹Cordura聚酰胺面料 3.在战局中发现并带回5个KEKTAPE管道胶带,非3x4 任意地点 Lv.42,static/images/1693835287_image.png
+长期合作,1.在位于立交桥的ULTRA商城击杀20名PMC,非3x4 立交桥 Lv.45,static/images/1693836329_image.png
+酒瘾,1.在战局中找到10瓶Tarkovskaya瓶装伏特加 2.在战局中找到10瓶DanJackiel瓶装威士忌 3.在战局中找到3瓶纯净水 4...,非3x4 任意地点 Lv.50,static/images/1693836684_image.png
+熟人,1.在战局中找到3个Iskra个人配给口粮 2.在战局中找到2个方便面 3.在战局中找到2个炖美味牛肉罐头,3x4 仙女棒 任意地点 Lv.2,static/images/1693840086_image.png
+生存者之路 - 危险零距离,1.在森林不穿防弹衣击杀5名Scav,3x4 仙女棒 森林 Lv.2,static/images/1693840006_image.png
+生存者之路 - 省吃俭用,1.在ZB016地堡藏匿Iskra个人配给口粮 2.在ZB016地堡藏匿0.6升瓶装水 3.在ZB014地堡藏匿Iskra个人配给口粮 4....,3x4 仙女棒 森林 Lv.2,static/images/1693840302_image.png
+生存者之路 - Zhivchik,1.在完全脱水的情况下坚持5分钟,3x4 仙女棒 任意地点 Lv.2,static/images/1693840611_image.png
+生存者之路 - 受伤的野兽,1.在遭受疼痛影响的情况下击杀3名Scav,3x4 仙女棒 任意地点 Lv.2,static/images/1693841110_image.png
+生存者之路 - 冷血,1.在颤栗效果的影响下命中头部消灭2名PMC,3x4 任意地点 Lv.2,static/images/1693842945_image.png
+生存者之路 - 硬汉,1.在森林单局内不使用医疗物品的情况下消灭3名Scav 2.在任务期间不要使用任何医疗品,3x4 仙女棒 森林 Lv.2,static/images/1693841849_image.png
+生存者之路 - 雕鸮,1.在21:00到04:00的时间内，在不使用夜视仪或热成像的情况下击杀6名scavs,3x4 任意地点 Lv.2,static/images/1693843932_image.png
+生存者之路 - 战地军医,1.提升活力技能至5级,3x4 任意地点 Lv.2,static/images/1693844322_image.png
+生存者之路 - Junkie,1.在任意兴奋剂效果下于森林击杀15名Scav,3x4 森林 Lv.2,static/images/1693843176_image.png
+猎人之路 - 周边安全,1.在工厂办公室区域（任何楼层）消灭6个PMC,3x4 仙女棒 工厂 Lv.2,static/images/1693856286_image.png
+猎人之路 - 物资,1.消灭Reshala 2.在战局中找到黄金TT手枪并上交,3x4 海关 Lv.2,static/images/1693858882_image.png
+猎人之路 - 正义,1.击杀3名穿着警用制服的Scav（Reshala的保镖）,3x4 任意地点 Lv.2,static/images/1693859017_image.png
+猎人之路 - 杀戮森林,1.在塔科夫全区域内击杀30名Scav,3x4 仙女棒 任意地点 Lv.2,static/images/1693857284_image.png
+猎人之路 - 工厂头目,1.消灭Tagilla 2.在战局中找到BOOS鸭嘴帽,3x4 工厂 Lv.2,static/images/1693907340_image.png
+猎人之路 - 流浪汉,1.击杀10个Rogue,3x4 灯塔 Lv.2,static/images/1693928581_image.png
+猎人之路 - 控制者,1.击杀2名被闪光弹致盲的PMC,3x4 任意地点 Lv.2,static/images/1693857481_image.png
+猎人之路 - 邪恶守望者,1.在海关的宿舍区击杀5名PMC,3x4 海关 Lv.2,static/images/1693857565_image.png
+塔科夫神射手 - 1,1.使用栓动步枪的机械瞄具在40米外击杀5名Scav,3x4 仙女棒 任意地点 Lv.2,static/images/1693911166_image.png
+塔科夫神射手 - 2,1.使用栓动式步枪在40米外击中腿部3次 2.使用栓动式步枪在40米外完成2次爆头,3x4 仙女棒 任意地点 Lv.2,static/images/1693911297_image.png
+塔科夫神射手 - 3,1.使用栓动步枪在25米内近距离击杀3名PMC,3x4 仙女棒 任意地点 Lv.2,static/images/1693920127_image.png
+塔科夫神射手 - 4,1.提升狙击步枪操作技能至3级,3x4 仙女棒 任意地点 Lv.2,static/images/1693921468_image.png
+塔科夫神射手 - 5,1.在海关21:00至05:00之间使用栓动式步枪击杀8名Scav,3x4 仙女棒 任意地点 Lv.2,static/images/1693921646_image.png
+塔科夫神射手 - 6,1.使用栓动步枪击杀5个Scav狙击手,3x4 仙女棒 任意地点 Lv.2,static/images/1693922240_image.png
+塔科夫神射手 - 7,1.使用装用消音器的栓动步枪在45米外击杀5名PMC,3x4 仙女棒 任意地点 Lv.2,static/images/1693922418_image.png
+塔科夫神射手 - 8,1.在不死亡的情况下使用栓动步枪命中头部击杀3名PMC,3x4 任意地点 Lv.2,static/images/1693922915_image.png
+美味香肠,1.检查Nikitskaya大街的Shestyorochka商店 2.检查Primorsky大街的Sparja商店 3.检查Pinewood...,3x4 塔科夫街区 Lv.5,static/images/1693930584_image.png
+别开枪！,1.从塔科夫街街区穿过Klimov街道并撤离,非3x4 塔科夫街区 Lv.10,static/images/1693929848_image.png
+猎人之路 - 森林管理员,1.消灭Shturman 2.在战局中找到Shturman钥匙并上交,3x4 森林 Lv.13,static/images/1693859448_image.png
+猎人之路 - 大动作,1.消灭Kaban 2.消灭Basmach 3.消灭Gus 4.在塔科夫街道的汽车经销商处消灭5名Kaban的保镖,非3x4 塔科夫街区 Lv.17,static/images/1694612472_image.png
+储备,1.在储备站找到食品储存区域 2.以幸存状态撤离该区域,3x4 储备站 Lv.20,static/images/1693856564_image.png
+害虫防治,1.击杀10个在储备站营区Scavs,3x4 储备站 Lv.20,static/images/1693927182_image.png
+猎人之路 - 蒸发密令 - 1,1.找到并消灭Glukhar,3x4 储备站 Lv.20,static/images/1693908817_image.png
+猎人之路 - 蒸发密令 - 2,1.消灭6个掠夺者,3x4 任意地点 Lv.20,static/images/1693910785_image.png
+礼节性拜访,1.找到地方主席的房子 2.找到渔夫的房子 3.找到牧师的房子 4.以幸存状态撤离,3x4 海岸线 Lv.20,static/images/1693842465_image.png
+隐士,1.找到Jaeger朋友在灯塔上的藏身处 2.找到并取得给Jaeger的消息 3.上交消息,3x4 灯塔 Lv.20,static/images/1693928334_image.png
+直播 - 3,1.找到塔科夫街区的老房子内的血腥直播间 2.幸存状态下撤离,非3x4 塔科夫街区 Lv.20,static/images/1693930790_image.png
+生意至上,1.在战局中找到3个加密U盘 2.上交3个加密U盘,3x4 任意地点 Lv.20,static/images/1693923413_image.png
+猎人之路 - 虐待狂【多选】,1.消灭Sanitar,3x4 海岸线 Lv.22,static/images/1693926894_image.png
+猎人之路 - 管理者,1.击杀塔科夫街区松木酒店内的20名Scavs 2.在松木酒店旁边的院子内发射黄色信号弹,非3x4 塔科夫街区 Lv.23,static/images/1693931240_image.png
+救护车,1.在战局中找到2个CMS手术包 2.在战局中找到1个便携式除颤器,3x4 任意地点 Lv.25,static/images/1693844586_image.png
+直播 - 4,1.找到塔科夫街区的邪教徒聚会地点 2.幸存状态下撤离,非3x4 塔科夫街区 Lv.27,static/images/1693930959_image.png
+直播 - 5,1.找到并消灭邪教徒牧师 2.在塔科夫街道Chekannaya街上找到仪式地点 3.在仪式现场埋藏1把邪教徒的刀 4.以幸存状态撤离该区域,非3x4 任意地点 Lv.27,static/images/1694612797_image.png
+怀旧之情,1.找到Jaeger待过的海景房间 2.找到Jaeger的相册并上交,3x4 海岸线 Lv.28,static/images/1693842754_image.png
+鱼塘,1.在战局中找到2张TerraGroup实验室访问钥匙卡,3x4 任意地点 Lv.28,static/images/1693857961_image.png
+猎人之路 - 脱销,1.消灭Killa 2.在战局中找到Killa的头盔并上交,3x4 立交桥 Lv.32,static/images/1693859166_image.png
+狩猎之旅,1.使用装有指定瞄具的M700狙击步枪从75米开外命中头部击杀Shturman,3x4 森林 Lv.33,static/images/1693903130_image.png
+猎人,1.歼灭Shturman20次,非3x4 森林 Lv.33,static/images/1693924296_image.png
+屠宰场,1.在除了实验室以外的每张地图使用近战武器时消灭10个Scavs,非3x4 任意地点 Lv.40,static/images/1693929622_image.png
+流浪狗,1.找到并击杀Knight 2.找到并击杀BigPipe 3.找到并击杀Birdeye,3x4 任意地点 Lv.42,static/images/1693928766_image.png
+快枪手,1.在森林不穿任何防弹衣或头盔击杀15名PMC,非3x4 森林 Lv.50,static/images/1693927449_image.png
+猎人之路 - 无情杀手,1.你不能阵亡，在行动中失踪或者匆匆撤离 2.击杀Tagilla 3.击杀Killa 4.击杀Reshala 5.击杀Shturman 6....,非3x4 任意地点 Lv.65,static/images/1693928047_image.png
+情报之源,1.通过森林的桥梁黑车幸存状态下撤离 2.通过海关的宿舍楼黑车幸存状态下撤离 3.通过立交桥的发电站黑车幸存状态下撤离 4.通过塔科夫街区的...,非3x4 任意地点 Lv.35,static/images/1693938821_image.png
+失踪的线人,1.在塔科夫街道上找到线人的藏身之处 2.找到线人备用藏身处 3.找到线人的日记 4.将日记上交给Lightkeeper,非3x4 塔科夫街区 Lv.35,static/images/1693939313_image.png
+抢夺先机,1.幸存状态撤离灯塔 2.在灯塔的污水处理厂获取伪造的情报 3.在储备站坦克房中寻找原始情报 4.将伪造的情报藏在BMP-2下以及代替原始情...,非3x4 任意地点 Lv.35,static/images/1693940014_image.png
+归还人情,1.消灭森林山区周围的15名PMC干员 2.将TerraGroup的“蓝色文件夹”材料文件夹隐藏在USEC营地的黑色SUV内 3.将Terr...,非3x4 森林 Lv.35,static/images/1693940279_image.png
+以牙还牙,1.找到并击杀Glukhar 2.消灭Glukhar的6名守卫 3.在雷达站发送黄色信号弹 4.从储备站的峭壁斜坡幸存状态撤离,非3x4 储备站 Lv.35,static/images/1693941121_image.png
+挑衅,"1.使用ASh-12消灭Kiba武器商店周围的20个敌人 2.在Kiba武器商店内埋藏一根咸狗牛肉肠 3.在安全屋撤离点内埋藏一瓶""凶狠跑刀...",非3x4 立交桥 Lv.35,static/images/1693941447_image.png
+按图索骥,1.击杀20名Raiders 2.搜索武器实验区 3.搜索人体实验区 4.在经理办公室内获取加密磁带 5.将磁带带给Lightkeeper,非3x4 任意地点 Lv.35,static/images/1693942493_image.png
+观察员,1.在康科迪亚找到一个俯瞰建筑工地的良好狙击位置 2.将AI.338LM战术声音抑制器藏在红色桌子附近 3.在滨海边疆区找到一个俯瞰电影院的...,非3x4 塔科夫街区 Lv.35,static/images/1693942870_image.png
+大显身手,1.从350米开外击杀10个狙击Scav 2.狙击步枪技能达到10级,非3x4 任意地点 Lv.35,static/images/1693943475_image.png
+大都会之谜,1.在塔科夫街区找到装有货物的载具 2.清理区域内的50个PMC 3.用MS2000指示器标记货物所在区域 4.在装甲车队附近发射黄色信号弹...,非3x4 塔科夫街区 Lv.35,static/images/1693943655_image.png
+外部信任 - 1,1.找到并消灭15次Tagilla 2.找到并消灭15次Sanitar 3.找到并消灭15次Shturman 4.找到并消灭15次Killa...,非3x4 任意地点 Lv.35,static/images/1712939069_1c945ea2852f81f69b8d94a7887e7e59.png
